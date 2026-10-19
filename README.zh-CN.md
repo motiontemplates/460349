@@ -4,7 +4,7 @@
 
 多张照片组成主视觉，从局部照片拉远揭示完整马赛克，适合集体回忆与拼图揭幕。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.0** · [@prism-studio](https://motiongit.com/@prism-studio) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.1** · [@prism-studio](https://motiongit.com/@prism-studio) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@prism-studio/visual-art-b-mosaic)**
 https://motiongit.com/@prism-studio/visual-art-b-mosaic
