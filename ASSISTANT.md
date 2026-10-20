@@ -3,7 +3,7 @@
 Reveal a photo mosaic by pulling back from individual pictures to the complete image.
 
 Template & full download: https://motiongit.com/@prism-studio/visual-art-b-mosaic
-Version: 2.6.3
+Version: 2.6.4
 Download available; current terms are listed with the package.
 
 ## Technical reference

@@ -4,7 +4,7 @@
 
 Reveal a photo mosaic by pulling back from individual pictures to the complete image.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.3** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.4** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@prism-studio/visual-art-b-mosaic)**
 https://motiongit.com/@prism-studio/visual-art-b-mosaic
